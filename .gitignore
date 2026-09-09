@@ -43,3 +43,7 @@ yarn-error.log*
 .pytest_cache/
 .coverage
 htmlcov/
+
+
+#------------
+deploy.sh
